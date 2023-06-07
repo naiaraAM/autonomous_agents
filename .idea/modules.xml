@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/autonomous_agents.iml" filepath="$PROJECT_DIR$/.idea/autonomous_agents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../celullar_automata/.idea/celullar_automata.iml" filepath="$PROJECT_DIR$/../celullar_automata/.idea/celullar_automata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../celullar_automata_javi/.idea/celullar_automata_javi.iml" filepath="$PROJECT_DIR$/../celullar_automata_javi/.idea/celullar_automata_javi.iml" />
     </modules>
   </component>
 </project>
